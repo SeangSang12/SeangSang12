@@ -53,35 +53,6 @@
 
 </div>
 
----
-
-## 🎨 My Specialties
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎭 Frontend Magic
-- ⚡ **Lightning-fast** React & Next.js apps
-- 🎨 **Pixel-perfect** responsive designs
-- 🚀 **Performance-optimized** applications
-- 🔧 **Modern tooling** and best practices
-
-</td>
-<td width="50%">
-
-### ✨ Animation Wizardry
-- 🎬 **Smooth transitions** with Framer Motion
-- 🎪 **Complex animations** using GSAP
-- 💫 **CSS magic** with keyframes
-- 🎯 **Micro-interactions** that delight users
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💻 Code Philosophy
 
 \`\`\`typescript

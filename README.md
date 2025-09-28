@@ -44,11 +44,13 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -105,6 +107,7 @@ console.log('Building the future, one component at a time! 🚀');
 <td width="50%">
 
 ### 🛍️ E-commerce Platform
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SeangSang12&repo=shop.github.io&theme=tokyonight&hide_border=true)](https://github.com/SeangSang12/shop.github.io)
 
 **Modern shopping experience with:**
 - ⚡ Next.js & TypeScript
@@ -116,6 +119,7 @@ console.log('Building the future, one component at a time! 🚀');
 <td width="50%">
 
 ### 🎮 Gaming Landing Page
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ligagaming&repo=landingPage&theme=tokyonight&hide_border=true)](https://github.com/ligagaming/landingPage)
 
 **Interactive gaming website with:**
 - 🎭 GSAP animations

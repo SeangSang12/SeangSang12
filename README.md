@@ -55,7 +55,7 @@ const mySkills = {
 ## 🌟 Featured Projects
 
 - 🛍️ **[E-commerce Platform](https://github.com/SeangSang12/shop.github.io)** - Modern shopping experience with animations
-- 🎮 **[Gaming Landing Page](https://github.com/ligagaming/landingPage)** - Interactive gaming website
+- 🎮 **[Gaming Landing Page]** - Interactive gaming website
 
 ## 🎨 Animation Showcase
 

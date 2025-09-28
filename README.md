@@ -107,7 +107,6 @@ console.log('Building the future, one component at a time! 🚀');
 <td width="50%">
 
 ### 🛍️ E-commerce Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SeangSang12&repo=shop.github.io&theme=tokyonight&hide_border=true)](https://github.com/SeangSang12/shop.github.io)
 
 **Modern shopping experience with:**
 - ⚡ Next.js & TypeScript
@@ -119,7 +118,6 @@ console.log('Building the future, one component at a time! 🚀');
 <td width="50%">
 
 ### 🎮 Gaming Landing Page
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ligagaming&repo=landingPage&theme=tokyonight&hide_border=true)](https://github.com/ligagaming/landingPage)
 
 **Interactive gaming website with:**
 - 🎭 GSAP animations
